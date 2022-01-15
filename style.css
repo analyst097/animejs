@@ -1,0 +1,48 @@
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.red {
+  background-color: red;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+
+.dom-node {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+#obj-log {
+  background-color: brown;
+  color: white;
+  padding: 5px;
+  margin-top: 1rem;
+  font-size: 2em;
+}
+
+.array {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.dom-attr {
+  padding: 0.2em;
+  background-color: brown;
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 2rem;
+  color: white;
+  border: white;
+}
